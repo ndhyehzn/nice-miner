@@ -1,0 +1,12 @@
+{
+    "name": "nice-miner",
+    "version": "v0.0.10",
+    "scripts": {
+        "postinstall": "make"
+    },
+    "bin": {
+        "nuxhash": "index.js"
+    },
+    "main": "index.js",
+    "author": "Swarup Banerjee"
+}
